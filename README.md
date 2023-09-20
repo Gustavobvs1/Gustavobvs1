@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Borges
 
 
-- 🌱 I’m currently learning C#, Java, Kotlin, Python and others
+- 🌱 I’m currently learning C#, Kotlin, Python and others
 <br>
 
 <div align="center">
