@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo Borges
 
 
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning Java Spring and Angular
 <br>
 
 <div align="center">
